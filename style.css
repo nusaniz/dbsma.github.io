@@ -1,0 +1,11 @@
+.container.footer {
+  /* border: 1px solid; */
+  /* margin: 8rem 0 0 0; */
+  /* margin: 1rem 0 1rem 0; */
+  margin: 8rem auto auto auto;
+}
+
+.container.footer p {
+  text-align: center;
+  margin: 0;
+}
